@@ -1,0 +1,5 @@
+could not find driver (SQL: select * from information_schema.tables where table_schema = pn and table_name = migrations and table_type = 'BASE TABLE')
+
+(if you face this problem in ubuntu run this command)
+
+sudo apt-get install php7.4-mysql -y   (note: first check php version then run this command i will rin this command for php 7.4)
